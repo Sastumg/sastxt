@@ -1,2 +1,0 @@
-# sastxt
-sastumk
